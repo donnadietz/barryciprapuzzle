@@ -1,0 +1,17 @@
+t0=imread("t0000.jpg");
+t1=imread("t0001.jpg");
+t2=imread("t0010.jpg");
+t3=imread("t0011.jpg");
+t4=imread("t0100.jpg");
+t5=imread("t0101.jpg");
+t6=imread("t0110.jpg");
+t7=imread("t0111.jpg");
+t8=imread("t1000.jpg");
+t9=imread("t1001.jpg");
+t10=imread("t1010.jpg");
+t11=imread("t1011.jpg");
+t12=imread("t1100.jpg");
+t13=imread("t1101.jpg");
+t14=imread("t1110.jpg");
+t15=imread("t1111.jpg");
+tiles=[t0;t1;t2;t3;t4;t5;t6;t7;t8;t9;t10;t11;t12;t13;t14;t15];

@@ -1,1 +1,3 @@
 This repo is to warehouse and display 7040 "solutions" to the puzzle I've been discussing with Barry Cipra and Peter Winkler since August 2019.
+GOTO https://donnadietz.github.io/barryciprapuzzle/
+to see this live!
